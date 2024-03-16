@@ -16,6 +16,8 @@ namespace Belajar_Git
             builder.Services.AddSwaggerGen();
             builder.Services.AddTransient<ProductService>();
             builder.Services.AddTransient<DashBoardService>();
+            builder.Services.AddTransient<CartService>();
+
             builder.Services.AddTransient<CashBankService>();
             var app = builder.Build();
 
