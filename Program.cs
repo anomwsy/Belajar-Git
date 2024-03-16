@@ -1,3 +1,5 @@
+using Belajar_Git.Services;
+
 namespace Belajar_Git
 {
     public class Program
@@ -12,7 +14,7 @@ namespace Belajar_Git
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
-            
+            builder.Services.AddTransient<DashBoardService>();
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
