@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\1922\\Desktop\\Indocyber\\Belajar-Git\\Belajar-Git\\Belajar-Git.csproj": {}
+    "C:\\Users\\1922\\Desktop\\Indocyber\\Belajar-Git\\Clone\\Belajar-Git\\Belajar-Git.csproj": {}
   },
   "projects": {
-    "C:\\Users\\1922\\Desktop\\Indocyber\\Belajar-Git\\Belajar-Git\\Belajar-Git.csproj": {
+    "C:\\Users\\1922\\Desktop\\Indocyber\\Belajar-Git\\Clone\\Belajar-Git\\Belajar-Git.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\1922\\Desktop\\Indocyber\\Belajar-Git\\Belajar-Git\\Belajar-Git.csproj",
+        "projectUniqueName": "C:\\Users\\1922\\Desktop\\Indocyber\\Belajar-Git\\Clone\\Belajar-Git\\Belajar-Git.csproj",
         "projectName": "Belajar-Git",
-        "projectPath": "C:\\Users\\1922\\Desktop\\Indocyber\\Belajar-Git\\Belajar-Git\\Belajar-Git.csproj",
+        "projectPath": "C:\\Users\\1922\\Desktop\\Indocyber\\Belajar-Git\\Clone\\Belajar-Git\\Belajar-Git.csproj",
         "packagesPath": "C:\\Users\\1922\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\1922\\Desktop\\Indocyber\\Belajar-Git\\Belajar-Git\\obj\\",
+        "outputPath": "C:\\Users\\1922\\Desktop\\Indocyber\\Belajar-Git\\Clone\\Belajar-Git\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\1922\\AppData\\Roaming\\NuGet\\NuGet.Config",
