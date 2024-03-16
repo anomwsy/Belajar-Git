@@ -16,6 +16,7 @@ namespace Belajar_Git
             builder.Services.AddSwaggerGen();
             builder.Services.AddTransient<ProductService>();
             builder.Services.AddTransient<DashBoardService>();
+            builder.Services.AddTransient<CashBankService>();
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
