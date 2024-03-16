@@ -17,8 +17,8 @@ namespace Belajar_Git
             builder.Services.AddTransient<ProductService>();
             builder.Services.AddTransient<DashBoardService>();
             builder.Services.AddTransient<CartService>();
-
-            builder.Services.AddTransient<CashBankService>();
+            builder.Services.AddTransient<CashBank>();
+            builder.Services.AddTransient<NewService>();
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
