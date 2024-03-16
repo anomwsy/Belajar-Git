@@ -15,6 +15,7 @@ namespace Belajar_Git
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
             builder.Services.AddTransient<ProductService>();
+            builder.Services.AddTransient<DashBoardService>();
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
